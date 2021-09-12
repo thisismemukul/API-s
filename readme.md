@@ -39,7 +39,7 @@ $ npm init
 
 The Hackathon Starter Kit is open source software [licensed as MIT][mlh-license].
 
-[mlh-license]: https://github.com/MLH/mlh-hackathon-nodejs-starter/blob/master/LICENSE.md
+[mlh-license]: https://github.com/thisismemukul/API-s/blob/main/LICENSE.md
 
 =================================================================================================
 
