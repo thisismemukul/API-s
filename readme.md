@@ -41,7 +41,7 @@ The Hackathon Starter Kit is open source software [licensed as MIT][mlh-license]
 
 [mlh-license]: https://github.com/thisismemukul/API-s/blob/main/LICENSE.md
 
-============================================================================
+# ============================================================================
 
 ## I'm a Web Developer, Graphic Designer, and Student!
 
