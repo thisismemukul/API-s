@@ -35,6 +35,15 @@ $ npm init
 - [Express](https://expressjs.com/) - A minimal web framework for Node.js web applications
 - [request](https://www.npmjs.com/package/request) - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
+
+**Step 3. Install Package.**
+
+Next, we need to install the request package, which is listed in `package.json`.
+
+```
+$ npm install request
+```
+
 # License
 
 The Hackathon Starter Kit is open source software [licensed as MIT][mlh-license].
